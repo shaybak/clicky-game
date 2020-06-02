@@ -3,15 +3,17 @@ import "./style.css";
 
 function Picture(props) {
   return (
-    <div className="image-container">
-      {props.pictures.map((picture) => (
-        <img
-          className="imagey"
-          src={picture.image}
-          alt={picture.name}
-          key={picture.id}
-        />
-      ))}
+    <div className="container image-container">
+      <div className="row">
+        {props.pictures.map((picture) => (
+          <img
+            className="col-3 imagey"
+            src={picture.image}
+            alt={picture.name}
+            key={picture.id}
+          />
+        ))}
+      </div>
     </div>
   );
 }

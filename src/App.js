@@ -5,10 +5,7 @@ import pictures from "./pictures.json";
 import "./App.css";
 
 function App() {
-  return (
-    <Picture pictures={pictures} />
-    // <Picture name={pictures[0].name} image={pictures[0].image} />
-  );
+  return <Picture pictures={pictures} />;
 }
 
 export default App;

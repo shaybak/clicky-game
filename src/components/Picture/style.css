@@ -1,9 +1,9 @@
 .imagey {
   width: 20%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 3%;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 
 .imagey:hover {
-  box-shadow: 0 4px 8px 0 rgba(24, 221, 247, 0.959),
-    0 6px 20px 0 rgba(14, 17, 223, 0.897);
+  opacity: 50%;
 }
