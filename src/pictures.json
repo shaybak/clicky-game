@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "aveline",
+    "image": "../assets/images/aveline.png",
+    "clickedOn": false
+  },
+  {
+    "id": 2,
+    "name": "cassandra",
+    "image": "../assets/images/cassandra.png",
+    "clickedOn": false
+  },
+  {
+    "id": 3,
+    "name": "alistair",
+    "image": "../assets/images/alistair.png",
+    "clickedOn": false
+  },
+  {
+    "id": 4,
+    "name": "leliana",
+    "image": "../assets/images/leliana.png",
+    "clickedOn": false
+  },
+  {
+    "id": 5,
+    "name": "varric",
+    "image": "../assets/images/varric.png",
+    "clickedOn": false
+  },
+  {
+    "id": 6,
+    "name": "bethany",
+    "image": "../assets/images/bethany.png",
+    "clickedOn": false
+  },
+  {
+    "id": 7,
+    "name": "bull",
+    "image": "../assets/images/bull.png",
+    "clickedOn": false
+  },
+  {
+    "id": 8,
+    "name": "dagna",
+    "image": "../assets/images/dagna.png",
+    "clickedOn": false
+  },
+  {
+    "id": 9,
+    "name": "dog",
+    "image": "../assets/images/dog.png",
+    "clickedOn": false
+  },
+  {
+    "id": 10,
+    "name": "dorian",
+    "image": "../assets/images/dorian.png",
+    "clickedOn": false
+  },
+  {
+    "id": 11,
+    "name": "flemeth",
+    "image": "../assets/images/flemeth.png",
+    "clickedOn": false
+  },
+  {
+    "id": 12,
+    "name": "morrigan",
+    "image": "../assets/images/morrigan.png",
+    "clickedOn": false
+  }
+]
